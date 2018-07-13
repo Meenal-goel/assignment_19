@@ -1,0 +1,1 @@
+"This quoted text is taken from a file"
